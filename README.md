@@ -1,8 +1,6 @@
 
 ## 🌐Socials
-[![Github]()
 
-[![Facebook]([https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-web-development-web-design-logo-website-707817%2F&psig=AOvVaw0jEqGO4LPdAT4FtKAQP_Xf&ust=1718626002665000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMipmfSK4IYDFQAAAAAdAAAAABAE))([https://facebook.com/https://www.facebook.com/phamvannghiaktmt1haui/?](https://phamvanng.github.io/nghia_profile/))
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/phamvannghiaktmt1haui/?locale=vi_VN) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nmg2403/) 
 
 # 💻Tech Stack
