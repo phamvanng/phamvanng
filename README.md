@@ -1,5 +1,6 @@
 
 ## 🌐Socials
+[![Facebook](https://phamvanng.github.io/nghia_profile/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/phamvannghiaktmt1haui/?locale=vi_VN) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nmg2403/) 
 
 # 💻Tech Stack
